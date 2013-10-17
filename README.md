@@ -1,6 +1,9 @@
-#Open Source
+#
+Open Source
+
 
 * Rannveig Gudmundsdottir
+* Einar Logi Hreinsson
 
 ## 1. Linux uppsetning
 
